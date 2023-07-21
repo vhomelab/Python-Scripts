@@ -1,3 +1,11 @@
 Projects/Files-Migration-GUI/__pycache__/*.*
 Projects/GUI-Test/.idea/*
 Projects/classtest/.idea/*
+Projects/Pipfile
+Projects/Pipfile.lock
+Projects/.idea/misc.xml
+Projects/.idea/modules.xml
+Projects/.idea/Projects.iml
+Projects/.idea/vcs.xml
+Projects/.idea/inspectionProfiles/profiles_settings.xml
+Projects/misc/Pipfile
