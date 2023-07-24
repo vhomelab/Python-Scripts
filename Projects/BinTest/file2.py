@@ -2,7 +2,8 @@ import requests
 from requests.exceptions import ConnectionError, Timeout, TooManyRedirects
 import json
 import os
-from binance.client import Client
+import hashlib
+iport hmac
 import time
 
 file = open("key.txt", "r")
